@@ -3,13 +3,13 @@ ChandlerBot
 Discord registration
 
 APPLICATION ID
-889135724698423336
+
 
 Public key
-f950f8e4af2cc0a11be10a37f9d69c703ae9bd0c0a52bb9360b511f3207cc0b7
+
 
 BOT TOKEN
-ODg5MTM1NzI0Njk4NDIzMzM2.YUc2LA.ZfKD7kr5GDeRbPh_CR7knMRwGd0
+
 
 URL - 
 https://discord.com/api/oauth2/authorize?client_id=889135724698423336&permissions=2048&scope=bot
